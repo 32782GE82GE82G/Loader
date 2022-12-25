@@ -1,26 +1,26 @@
 
 if game.PlaceId == 10598587051 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/PlatiniumDev/files/main/Anime%20Clicker%20Fight"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/32782GE82GE82G/File/main/Anime%20clicker"))()
     
     elseif game.PlaceId == 6679968919 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/PlatiniumDev/files/main/Fly%20Race"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/32782GE82GE82G/File/main/fly%20race.txt"))()
     
     elseif game.PlaceId == 9834528893 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/PlatiniumDev/files/main/%2B1%20Jump%20Every%20Second"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/32782GE82GE82G/File/main/%2B1%20Jump%20Every%20Second.txt"))()
     
     elseif game.PlaceId == 10898965735 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/PlatiniumDev/files/main/Mine%20Racer"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/32782GE82GE82G/File/main/Mine%20Racer.txt"))()
     
     elseif game.PlaceId == 10723695195 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/PlatiniumDev/files/main/Anime%20Evolution%20Simulator"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/32782GE82GE82G/File/main/Anime%20Evolution%20Simulator.txt"))()
     
     elseif game.PlaceId == 11298615665 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/PlatiniumDev/files/main/%2B1%20Speed%20Every%20Second"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/32782GE82GE82G/File/main/%2B1%20Speed%20Every%20Second.txt"))()
 
     elseif game.PlaceId == 11040063484 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/PlatiniumDev/files/main/Sword%20Fighters%20Simulator"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/32782GE82GE82G/File/main/SFS"))()
     
     elseif game.placeId == 2753915549 or game.placeId == 4442272183 or game.placeId == 7449423635 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/PlatiniumDev/files/main/Blox%20Fruits"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/32782GE82GE82G/File/main/Blox%20fruits"))()
     
 end

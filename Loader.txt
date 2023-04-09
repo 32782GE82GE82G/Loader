@@ -2,4 +2,6 @@ if game.PlaceId == 12681406213 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/32782GE82GE82G/File/main/Kill%20to%20Save%20Anime%20Girl%20Simulator"))()
 elseif game.PlaceId == 12413786484 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/32782GE82GE82G/File/main/Anime%20Lost%20Simulator"))()
+elseif game.PlaceId == 11445923563 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/32782GE82GE82G/File/main/One%20Fruit%20Sim"))()
 end 
